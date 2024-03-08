@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=89ecda&height=100&section=header&text=Greetings%20from%20Jay👋&fontSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89ecda&height=100&section=header&text=Greetings%20from%20Jay👋&fontSize=20&fontColor=d6ace6&animation=twinkling" />
 
 <p align="right">
   <a href="mailto:jenny020817m@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/School%20Mail-ff6f69?style=flat-square&logoColor=white"/></a>
@@ -34,3 +34,5 @@ You're welcome to visit and share ideas 💡
   <a href="https://github.com/answlgml" target="_blank"><img src="https://img.shields.io/badge/answlgml-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.kaggle.com/answlgmljay" target="_blank"><img src="https://img.shields.io/badge/answlgml_Jay-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=89ecda&height=100&section=footer&" />
