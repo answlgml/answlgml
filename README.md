@@ -5,7 +5,7 @@
   <a href="https://www.instagram.com/newmoon_jay" target="_blank"><img src="https://img.shields.io/badge/Instagram-e86af0?style=flat-square&textColor=white&logo=Instagram&logoColor=white"/></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=c2f2d0&height=1)
+![header](https://capsule-render.vercel.app/api?type=rect&color=c2f2d0&height=1.5)
 
 #### About Jay!
 <p>
@@ -34,5 +34,7 @@ You're welcome to visit and share ideas 💡
   <a href="https://github.com/answlgml" target="_blank"><img src="https://img.shields.io/badge/answlgml-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.kaggle.com/answlgmljay" target="_blank"><img src="https://img.shields.io/badge/answlgml_Jay-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=c2f2d0&height=1.5)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89ecda&height=100&section=footer&" />
