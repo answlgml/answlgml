@@ -9,7 +9,8 @@
 
 #### About Jay!
 <p>
-🏫 Majoring Food Bioscience & Tech. at Korea University <br/>
+🐯🇰🇷 Majoring Food Bioscience & Tech. at Korea University <br/>
+🦡🇺🇸 Studying Food Fermentation & Data Science at University of Wisconsin-Madison <br/>
 🖥️ Learning Python & R for Data Analysis, Visualization and Machine Learning <br/>
 </p>
 
